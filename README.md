@@ -32,7 +32,9 @@ A user-friendly web-based system to submit, track, and manage client projects. B
 ## Folder Structure
 
 final_project_tracker/
+
 ├─ admin/
+
 │ ├─ dashboard.php
 │ └─ index.php (login)
 ├─ includes/
