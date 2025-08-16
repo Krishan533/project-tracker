@@ -1,7 +1,7 @@
 # project-tracker
 # Final Project Tracker
 
-A user-friendly web-based system to submit, track, and manage client projects. Built with **PHP**, **MySQL**, and **Bootstrap 5**, with a modern UI/UX like `www.ap.lk/dashboard`.
+A user-friendly web-based system to submit, track, and manage client projects. Built with **PHP**, **MySQL**, and **Bootstrap 5**, with a modern UI/UX
 
 ---
 
