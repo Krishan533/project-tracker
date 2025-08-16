@@ -36,20 +36,35 @@ final_project_tracker/
 ├─ admin/
 
 │ ├─ dashboard.php
+
 │ └─ index.php (login)
+
 ├─ includes/
+
 │ ├─ auth.php
+
 │ ├─ functions.php
+
 │ └─ partials/
+
 │ ├─ header.php
+
 │ └─ footer.php
+
 ├─ public/
+
 │ ├─ index.php (submit project)
+
 │ ├─ track.php (track project)
+
 │ └─ assets/
+
 │ ├─ css/app.css
+
 │ └─ js/app.js
+
 └─ sql/
+
 └─ clients.sql
 
 yaml
