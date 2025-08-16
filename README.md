@@ -22,7 +22,7 @@ A user-friendly web-based system to submit, track, and manage client projects. B
 ## Requirements
 
 - PHP >= 7.4
-- MySQL / MariaDB
+- MySQL 
 - Apache server (XAMPP/WAMP/LAMP)
 - Composer (optional for dependencies)
 - Browser
