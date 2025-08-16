@@ -1,0 +1,10 @@
+/* App overrides */
+.card-elevated { box-shadow: 0 8px 24px rgba(0,0,0,.06); border: 0; }
+.progress-small { height: .6rem; }
+.table thead th { white-space: nowrap; }
+.badge-status { font-weight: 600; }
+.badge-status.Pending { background:#fff3cd; color:#856404; }
+.badge-status.In\ Progress { background:#cfe2ff; color:#084298; }
+.badge-status.Completed { background:#d1e7dd; color:#0f5132; }
+.sidebar-collapsed aside { width: 70px; }
+.hero { background: linear-gradient(120deg, #e0ecff, #f4f8ff); border-radius: 1rem; }
