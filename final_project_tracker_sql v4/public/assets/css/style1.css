@@ -1,0 +1,93 @@
+body {
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.login-container {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.login-container input {
+    width: 90%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.login-container button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #9b59b6;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.login-container button:hover {
+    background-color: #8e44ad;
+}
+
+header, footer { 
+    display:flex; 
+    justify-content:space-between; 
+    align-items:center; 
+    margin-bottom:20px; 
+}
+h1,h2{ 
+    margin:0 0 10px;
+ }
+.card { 
+     border-radius:12px;
+     justify-content: center;
+      padding:2px;
+       margin-bottom:20px; 
+       box-shadow:0 4px 14px rgba(0,0,0,0.06);
+ }
+label { display:block; margin:8px 0 4px; }
+input[type=text], input[type=email],input[type=password], textarea, select { 
+    width: 50%; 
+    padding:10px;
+     border:1px solid #ddd; 
+     border-radius:8px; 
+     justify-content: center;
+    }
+button { 
+    margin-top:12px; 
+    padding:10px 16px; 
+    border:none; 
+    border-radius:8px; 
+    cursor:pointer; 
+    background:#2563eb; 
+    color:#fff; 
+}
+table { 
+    width:100%; 
+    border-collapse:collapse;
+ }
+th, td { 
+    text-align:left; 
+    padding:10px; 
+    border-bottom:1px solid #eee; }
+.badge { background:#e5f0ff;
+    padding:4px 8px; 
+    border-radius:999px; 
+}
+.error { 
+    color:#b91c1c;
+ }
+a.right { 
+    float:right;
+ }
